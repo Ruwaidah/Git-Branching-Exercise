@@ -1,6 +1,6 @@
 # Git-Branching-Exercise
 
-<!-- PART ONE ANSWERING QUESTATIONS -->
+# PART ONE ANSWERING QUESTATIONS -->
 
 1- What git command creates a branch?
 git branch branch-name
